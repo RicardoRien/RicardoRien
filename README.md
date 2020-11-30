@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/ricardo-aguilar-7195851b4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://twitter.com/xilorgano" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.facebook.com/RicardoNothing/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a> 
-
+<h3>ricardoaguilar96@yahoo.com</h3>
 <h2>
 <img src="https://slackmojis.com/emojis/3217-bluelightsaber/download" width="30"/>
 Feel free to reach out to me
